@@ -1,0 +1,14 @@
+1.0:
+-Added Assassin and horse skins
+1.1: 
+-Added new Horse-archer-top skin for better visibility
+-changed white-horse-skin to a more blond and better looking colour
+-Added new submod: Bigger flames. This mod increases the size of the flames by around 30-50%. Comes in normal and blue colour
+-Added two more mods, gm Conqueror and gm Conqueror Sorrow. The first changes many troops of blue colour to golden(made for my Ai so not all units right now)
+ The second has the gold troops and also bloody troops for the red colour (also not all units). They can also be found in my Conquest Ai Modpack
+1.2: 
+-Added new mod "wooden walls". This turns all walls in wooden walls(duh) with custom made textures.
+-changed name to Immersive Textures
+-changed Assassins blood to red again
+-Added 2 lord skins, one turns saladin to the sh1 lord., the other turns him to the crusader lord
+-Added Horse Archer top Skin, which makes them better do distinguish
