@@ -6,7 +6,13 @@ Installation: Just copy the files in your games gm folder and let it overide. I 
 
 
 
-Special thanks to PodeCaradox for his Gm1 converter tool, which i mostly use.
+Special thanks to:
+PodeCaradox for his Gm1 converter tool, which i mostly use.
+Steinhauer, who helped me with the crennels and interface files.
+Wama 30 for the idea of the wooden textures.
+And all the others who gave me ideas.
+Firefly, who made such an amazing an longlasting game.
+
 
 
 

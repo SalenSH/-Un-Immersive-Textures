@@ -12,3 +12,7 @@
 -changed Assassins blood to red again
 -Added 2 lord skins, one turns saladin to the sh1 lord., the other turns him to the crusader lord
 -Added Horse Archer top Skin, which makes them better do distinguish
+1.3:
+-added new mod "wooden textures", which replaces almost all stone textures with wooden ones, f.e. walls, towers, gatehouses...
+-added texture fixes for normal crusader. Now gatehouses and towers dont glitch into each other anymore, though at the cost of troops standing over f.e. crenels.
+-added fix for a bushtype which was in vanilla way over the spot you placed it 
